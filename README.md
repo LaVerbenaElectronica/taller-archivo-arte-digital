@@ -1,5 +1,10 @@
 # taller-archivo-arte-digital
 
+Este es un repositorio creado para dar soporte a la actividad "El archivo de arte digital. Github como taller de co-creación y co-escritura colectivas."
+
+
+## Justificacion
+
 Git es un software de licencia de público general (GPLv2) diseñado por Linus Torvalds, iniciador y propulsor del sistema operativo Linux. Git permite llevar un registro de los cambios realizados en un documento, ayudando a gestionar la creación colectiva de cualquier contenido digital, con especial énfasis en el código informático. 
 
 En historia del arte se conocen bien las herramientas de registro que muchos artistas han usado históricamente para documentar sus procesos creativos: ya sea en forma de diarios, cuadernos de trabajo, o incluso sus propios estudios y talleres, almacenan de una forma orgánica los errores y aciertos, los descubrimientos y las decisiones artísticas que han guiado su trabajo.
@@ -10,8 +15,6 @@ Con este taller queremos realizar una sencilla investigación que nos permita pe
 
 Para ello, nos vamos a acercar a las investigaciones creadas durante los años 1968 y 1973 en el Centro de Cálculo de la Universidad Complutense y recuperaremos algunos de los algoritmos que allí se crearon como consecuencia de las investigaciones artísticas realizadas por artistas como Elena Asins, Manuel Barbadillo, Lugán o José Luis Alexanco, entre otros.
 
-
-## Justificacion
 
 ## Obras
 * [Ejemplo de game of life](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/game-of-life.html)
