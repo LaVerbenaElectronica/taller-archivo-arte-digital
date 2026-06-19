@@ -13,7 +13,7 @@ Con la llegada de las prácticas artísticas digitales, los procesos creativos y
 
 Con este taller queremos realizar una sencilla investigación que nos permita pensar qué posibilidades nos brindan las herramientas de software libre como git (a través de la plataforma github) para archivar diferentes cambios producidos por obras de arte digitales (como archivos digitales o algoritmos) con el fin de explorar su uso en el marco del proyecto de investigación SafeArtTech que se desarrolla en la Universidad Complutense de Madrid.
 
-Para ello, nos vamos a acercar a las investigaciones creadas durante los años 1968 y 1973 en el Centro de Cálculo de la Universidad Complutense y recuperaremos algunos de los algoritmos que allí se crearon como consecuencia de las investigaciones artísticas realizadas por artistas como Elena Asins, Manuel Barbadillo, Lugán o José Luis Alexanco, entre otros.
+Para ello, nos vamos a acercar a las investigaciones creadas durante los años 1968 y 1973 en el Centro de Cálculo de la Universidad Complutense y recuperaremos algunos de los algoritmos que allí se crearon como consecuencia de las investigaciones artísticas realizadas por artistas como Elena Asins, Manuel Barbadillo, Waldemar Cordeiro o José Luis Alexanco, entre otros.
 
 
 ## Obras
