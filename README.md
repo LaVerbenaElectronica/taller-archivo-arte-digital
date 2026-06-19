@@ -22,3 +22,15 @@ Para ello, nos vamos a acercar a las investigaciones creadas durante los años 1
 * [Ejemplo de Waldemar Cordeiro](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/gente-waldemar-cordeiro-1976.png)
 * [Ejemplo de José Alexanco](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/untitled-sculpture-jose-alexanco.png)
 * [Ejercicio de recodificación inspirado en la obra de Elena Asins](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/recodificando-elena-asins.html)
+
+## Bibliografía.
+
+Rodríguez, M. P. (2017). La estética del algoritmo en la producción artística de Elena Asins. Revista Sonda. Investigación en Artes y Letras, 6, 47-56. 
+
+López, A., Munarriz, J. (2021). El Centro de Cálculo de la Universidad de Madrid (1968-1973). Ciencia, Arte y Creación Computacional. ISBN: 978-84-669-3698-9
+
+Chacon, S. Straub, B. (2014). Pro Git. Online. https://git-scm.com/book/en/v2
+
+Proyecto P5Js. https://p5js.org/
+
+The Recode Project. https://recodeproject.com/ 
