@@ -1,4 +1,4 @@
-# taller-archivo-arte-digital
+# Taller de archivo de Arte Digital. Lara Sánchez Cotejón (UCM) y Jesús Jara López (UAM)
 
 Este es un repositorio creado para dar soporte a la actividad "El archivo de arte digital. Github como taller de co-creación y co-escritura colectivas."
 
