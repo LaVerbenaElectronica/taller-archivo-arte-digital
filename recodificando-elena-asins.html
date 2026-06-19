@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.8.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.8.0/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <main>
+    </main>
+    <script>
+
+/*
+Ejemplo de código de P5JS
+https://editor.p5js.org/ivymeadows/sketches/Byoo6tl2b
+El objetivo es adaptarlo para reinterpretar la obra de Elena Asins:
+https://www.google.com/search?q=elena+asins+circulos&sca_esv=3750d84e3b6f83f6&udm=2&biw=1920&bih=953&sxsrf=APpeQnv3NC8KiNYlNTy_UYpATwbG2d1gjA%3A1781878006487&ei=9kw1ap2jHeOB9u8Po_Ko8Ag&ved=0ahUKEwid9u_svJOVAxXjgP0HHSM5Co4Q4dUDCBM&uact=5&oq=elena+asins+circulos&gs_lp=Egtnd3Mtd2l6LWltZyIUZWxlbmEgYXNpbnMgY2lyY3Vsb3NI_Q9QhwRYnQ9wAXgAkAEAmAFYoAHnBKoBATm4AQPIAQD4AQGYAgKgAqQBwgIFEAAYgATCAgQQABgemAMAiAYBkgcBMqAH3geyBwEyuAekAcIHBTAuMS4xyAcEgAgB&sclient=gws-wiz-img
+*/
+      
+function setup(){
+  createCanvas(400,400);
+  noStroke();
+  background(255);
+
+  
+  var x = 200;
+  var y = 200;
+  //number of circles
+  var circles = 9;
+  //for each circle
+  for (var total = 0; total < circles; total = total+1) {
+    //compute circle diameter based on reverse index (circles-total) (or max-current)
+    var diameter = (circles-total) * 30;
+    fill(total * 30);
+    //render the circle
+    ellipse(x,y, diameter, diameter);
+    
+  }
+  
+}
+
+
+      
+    </script>
+  </body>
+</html>
