@@ -5,5 +5,5 @@ Prueba
 ## Justificacion
 
 ## Obras
-
-* 
+* [Ejemplo de game of life](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/game-of-life.html)
+* [Ejemplo de Manuel Barbadillo](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/aeleana-manuel-barbadillo.html)
