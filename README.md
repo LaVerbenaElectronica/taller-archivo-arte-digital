@@ -3,7 +3,7 @@
 Este es un repositorio creado para dar soporte a la actividad "El archivo de arte digital. Github como taller de co-creación y co-escritura colectivas."
 Este taller tiene como objetivo explorar las herramientas de archivo y control de versiones del ámbito del desarrollo informático para aplicarlo al ámbito artístico digital (arte por ordenador) con el fin de explorar las posibilidades que éstas ofrecen para dar valor al proceso creativo y ayudar a conservar las prácticas artísticas digitales. 
 
-## Justificacion
+## Justificación
 
 Git es un software de licencia de público general (GPLv2) diseñado por Linus Torvalds, iniciador y propulsor del sistema operativo Linux. Git permite llevar un registro de los cambios realizados en un documento, ayudando a gestionar la creación colectiva de cualquier contenido digital, con especial énfasis en el código informático. 
 
@@ -16,8 +16,8 @@ Con este taller queremos realizar una sencilla investigación que nos permita pe
 Para ello, nos vamos a acercar a las investigaciones creadas durante los años 1968 y 1973 en el Centro de Cálculo de la Universidad Complutense y recuperaremos algunos de los algoritmos que allí se crearon como consecuencia de las investigaciones artísticas realizadas por artistas como Elena Asins, Manuel Barbadillo, Waldemar Cordeiro o José Luis Alexanco, entre otros.
 
 
-## Obras
-* [Ejemplo de game of life](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/game-of-life.html)
+## Obras propuestas
+* [Ejemplo del algoritmo Game of Life de J. Conway](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/game-of-life.html)
 * [Ejemplo de Manuel Barbadillo](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/aeleana-manuel-barbadillo.html)
 * [Ejemplo de Waldemar Cordeiro](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/gente-waldemar-cordeiro-1976.png)
 * [Ejemplo de José Alexanco](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/untitled-sculpture-jose-alexanco.png)
