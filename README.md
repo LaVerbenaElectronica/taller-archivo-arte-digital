@@ -18,9 +18,9 @@ Para ello, nos vamos a acercar a las investigaciones creadas durante los años 1
 
 ## Obras propuestas
 * [Ejemplo del algoritmo Game of Life de J. Conway](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/game-of-life.html)
-* [Ejemplo de Manuel Barbadillo](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/aeleana-manuel-barbadillo.html)
-* [Ejemplo de Waldemar Cordeiro](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/gente-waldemar-cordeiro-1976.png)
-* [Ejemplo de José Alexanco](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/untitled-sculpture-jose-alexanco.png)
+* [Aeleana de Manuel Barbadillo](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/aeleana-manuel-barbadillo.html)
+* [Gente de Waldemar Cordeiro](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/gente-waldemar-cordeiro-1976.png)
+* [Escultura sin título de José Alexanco](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/untitled-sculpture-jose-alexanco.png)
 * [Ejercicio de recodificación inspirado en la obra de Elena Asins](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/recodificando-elena-asins.html)
 
 ## Bibliografía.
