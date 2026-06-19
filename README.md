@@ -19,3 +19,4 @@ Para ello, nos vamos a acercar a las investigaciones creadas durante los años 1
 ## Obras
 * [Ejemplo de game of life](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/game-of-life.html)
 * [Ejemplo de Manuel Barbadillo](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/aeleana-manuel-barbadillo.html)
+* [Ejemplo de Manuel Barbadillo](https://laverbenaelectronica.github.io/taller-archivo-arte-digital/gente-waldemar-cordeiro-1976.png)
