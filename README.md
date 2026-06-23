@@ -16,7 +16,7 @@ Con la llegada de las prácticas artísticas digitales, los procesos creativos y
 
 En este taller queremos realizar una sencilla investigación que nos permita pensar qué posibilidades nos brindan las herramientas de software libre como git (a través de la plataforma github) para archivar diferentes cambios producidos por obras de arte digitales (como archivos digitales o algoritmos).
 
-Como punto de partida utilizaremos trabajos realizados entre los años 1968 y 1973 en el Centro de Cálculo de la Universidad Complutense de Madrid y recuperaremos algunos de los algoritmos que allí se generaron como consecuencia de las investigaciones artísticas realizadas por creadores y creadoras como Elena Asins, Manuel Barbadillo, Lugán o José Luis Alexanco, entre otros.
+Como punto de partida utilizaremos trabajos realizados entre los años 1968 y 1973 en el Centro de Cálculo de la Universidad Complutense de Madrid y recuperaremos algunos de los algoritmos que allí se generaron como consecuencia de las investigaciones artísticas realizadas por creadores y creadoras como Elena Asins, Manuel Barbadillo, Waldemar Cordeiro o José Luis Alexanco, entre otros.
 
 
 ## Obras propuestas
