@@ -1,7 +1,10 @@
-# Taller de archivo de Arte Digital. Lara Sánchez Cotejón (UCM) y Jesús Jara López (UAM)
+# Taller de archivo de Arte Digital. Lara Sánchez Coterón (UCM) y Jesús Jara López (UAM)
 
 Este es un repositorio creado para dar soporte a la actividad "El archivo de arte digital. Github como taller de co-creación y co-escritura colectivas."
-Este taller tiene como objetivo explorar las herramientas de archivo y control de versiones del ámbito del desarrollo informático para aplicarlo al ámbito artístico digital (arte por ordenador) con el fin de explorar las posibilidades que éstas ofrecen para dar valor al proceso creativo y ayudar a conservar las prácticas artísticas digitales. 
+
+La actividad tiene como objetivo explorar las herramientas de archivo y control de versiones del ámbito del desarrollo informático para aplicarlo al ámbito artístico digital (arte por ordenador) con el fin de explorar las posibilidades que éstas ofrecen para dar valor al proceso creativo y ayudar a conservar las prácticas artísticas digitales. 
+
+Este taller se enmarca dentro del proyecto de investigación SafeARTECH – Salvaguardia del arte digital, experimental y tecnológico de las últimas décadas en España: perspectivas, retos y oportunidades (PID2024-155970NA-I00).
 
 ## Justificación
 
@@ -9,11 +12,11 @@ Git es un software de licencia de público general (GPLv2) diseñado por Linus T
 
 En historia del arte se conocen bien las herramientas de registro que muchos artistas han usado históricamente para documentar sus procesos creativos: ya sea en forma de diarios, cuadernos de trabajo, o incluso sus propios estudios y talleres, almacenan de una forma orgánica los errores y aciertos, los descubrimientos y las decisiones artísticas que han guiado su trabajo.
 
-Con la llegada de las prácticas artísticas digitales, los procesos creativos y las diferentes versiones de una misma obra tienden a almacenarse de manera descuidada. Al tratarse de obras de naturaleza ya de por sí efímera, se perciben a menudo como carentes de valor y perderse entre el océano de datos que almacenan los discos duros, memorias volátiles, soportes digitales obsoletos como discos compactos (CDs) o disquetes y la (mal denominada) nube.
+Con la llegada de las prácticas artísticas digitales, los procesos creativos y las diferentes versiones de una misma obra tienden a almacenarse de manera descuidada. Al tratarse de obras de naturaleza variable , se perciben a menudo como carentes de valor y tienden a perderse entre el océano de datos que almacenan los discos duros, memorias volátiles, soportes digitales obsoletos como discos compactos (CDs) o disquetes y en infraestructuras de almacenamiento y procesamiento centralizadas, gestionadas por grandes corporaciones tecnológicas (comúnmente englobadas bajo el término comercial de computación en la nube) 
 
-Con este taller queremos realizar una sencilla investigación que nos permita pensar qué posibilidades nos brindan las herramientas de software libre como git (a través de la plataforma github) para archivar diferentes cambios producidos por obras de arte digitales (como archivos digitales o algoritmos) con el fin de explorar su uso en el marco del proyecto de investigación SafeArtTech que se desarrolla en la Universidad Complutense de Madrid.
+En este taller queremos realizar una sencilla investigación que nos permita pensar qué posibilidades nos brindan las herramientas de software libre como git (a través de la plataforma github) para archivar diferentes cambios producidos por obras de arte digitales (como archivos digitales o algoritmos).
 
-Para ello, nos vamos a acercar a las investigaciones creadas durante los años 1968 y 1973 en el Centro de Cálculo de la Universidad Complutense y recuperaremos algunos de los algoritmos que allí se crearon como consecuencia de las investigaciones artísticas realizadas por artistas como Elena Asins, Manuel Barbadillo, Waldemar Cordeiro o José Luis Alexanco, entre otros.
+Como punto de partida utilizaremos trabajos realizados entre los años 1968 y 1973 en el Centro de Cálculo de la Universidad Complutense de Madrid y recuperaremos algunos de los algoritmos que allí se generaron como consecuencia de las investigaciones artísticas realizadas por creadores y creadoras como Elena Asins, Manuel Barbadillo, Lugán o José Luis Alexanco, entre otros.
 
 
 ## Obras propuestas
