@@ -19,20 +19,20 @@ https://www.google.com/search?q=elena+asins+circulos&sca_esv=3750d84e3b6f83f6&ud
 */
       
 function setup(){
-  createCanvas(800,800);
+  createCanvas(600,600);
   noStroke();
-  background(255, 255, 0);
+  background(95,30,200);
 
   
-  var x = 400;
-  var y = 400;
+  var x = 300;
+  var y = 300;
   //number of circles
-  var circles = 20;
+  var circles = 30;
   //for each circle
   for (var total = 0; total < circles; total = total+1) {
     //compute circle diameter based on reverse index (circles-total) (or max-current)
-    var diameter = (circles-total) * 40;
-    fill(0, 100 + total * 7, 0);
+    var diameter = (circles-total) * 20;
+    fill(255, 50 + total * 130, 150 + total * 80);
     //render the circle
     ellipse(x,y, diameter, diameter);
     
